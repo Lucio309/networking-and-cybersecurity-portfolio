@@ -13,7 +13,7 @@
 
 ### 1. What is Networking?
 
-##### Task 1. What is Networking?
+#### Task 1. What is Networking?
 
 - Networks are connection of things. In terms of computing, it is thepractice of connecting computers so they can share resources and information.
 
@@ -21,7 +21,7 @@
   - Question: What is the key term for devices that are connected together?
   - Answer : Network 
 
-##### Task 2. What is the Internet?
+#### Task 2. What is the Internet?
 
 - The internet is a giant network consisting of small networks. Small networks are called private networks and connecting these small networks become public networks.
 - The first iteration of the internet was within ARPANET in 1960 but it wasn't until 1989 that Tim Berners-Lee created the **World Wide Web** or Internet as we know.
