@@ -66,4 +66,7 @@
 
   - The interactive labs simulate a hotel Wi-Fi network where you have to pay for the service. You'll note that the router is not allowing Bob's packets ( blue) to the TryHackMe website and is placing them in the bin, but Alice's packets (green) are going through fine because she has paid for Wi-Fi. Try changing Bob's MAC address to the same as Alice's to see what happens.
 
-📸 Results are saved in the [Screenshots](./Screenshots) folder.
+  📸 Results are saved in the [Screenshots](./Screenshots) folder.
+
+      - Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+      - Answer: THM{YOU_GOT_ON_TRYHACKME}
