@@ -15,7 +15,7 @@
 
 #### Task 1. What is Networking?
 
-- Networks are connection of things. In terms of computing, it is thepractice of connecting computers so they can share resources and information.
+-Networks are connection of things. In terms of computing, it is thepractice of connecting computers so they can share resources and information.
 
 ##### Try Hack Me Questions
 - What is the key term for devices that are connected together?
