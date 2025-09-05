@@ -20,7 +20,7 @@
   ##### Try Hack Me
   - Question: What is the key term for devices that are connected together?
   - Answer : Network 
---
+---
 #### Task 2. What is the Internet?
 
 - The internet is a giant network consisting of small networks. Small networks are called private networks and connecting these small networks become public networks.
