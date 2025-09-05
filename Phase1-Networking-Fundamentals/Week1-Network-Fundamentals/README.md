@@ -39,6 +39,7 @@
   ##### IP Address
 
   - An IP address is divided into 4 octets. Private IP addresses are used for communication within a local network, while public IP addresses (assigned by your ISP) are used when communicating over the Internet.
+
   -👉 IPv4 has about 4.3 billion addresses and is running out, while IPv6 provides a much larger address space and improved features.
 
   ##### MAC Address
