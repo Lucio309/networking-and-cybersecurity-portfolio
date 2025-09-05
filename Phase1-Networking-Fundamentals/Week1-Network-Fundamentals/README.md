@@ -45,3 +45,5 @@
   ##### MAC Address
 
   - Every device has a physical network interface with a unique MAC address, a 12-character hexadecimal identifier; the first half identifies the manufacturer, and the second half is unique to the device.
+
+    💡 Trivia: Did you know that MAC addresses can be spoofed? A device can pretend to use another device’s MAC, which can trick firewalls or Wi-Fi networks that rely only on MAC filtering.
