@@ -20,7 +20,9 @@
   ##### Try Hack Me
   - Question: What is the key term for devices that are connected together?
   - Answer : Network 
+
 --
+
 #### Task 2. What is the Internet?
 
 - The internet is a giant network consisting of small networks. Small networks are called private networks and connecting these small networks become public networks.
@@ -29,7 +31,7 @@
   ##### Try Hack Me
     - Question: Who invented the World Wide Web?
     - Answer : Network
--- 
+
 #### Task 3. Identifying Devices on a Network
 
 - To maintain order, devices should be able to identify and be identifiable in a network.
@@ -47,3 +49,7 @@
   - Every device has a physical network interface with a unique MAC address, a 12-character hexadecimal identifier; the first half identifies the manufacturer, and the second half is unique to the device.
 
     💡 Trivia: Did you know that MAC addresses can be spoofed? A device can pretend to use another device’s MAC, which can trick firewalls or Wi-Fi networks that rely only on MAC filtering.
+
+    ##### Try Hack Me
+        - Question: What does the term "IP" stand for?
+        - Answer : Internet Protocol
