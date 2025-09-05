@@ -50,17 +50,17 @@
     💡 Trivia: Did you know that MAC addresses can be spoofed? A device can pretend to use another device’s MAC, which can trick firewalls or Wi-Fi networks that rely only on MAC filtering.
 
     ##### Try Hack Me Questions
-        - What does the term "IP" stand for?
-        - Answer : Internet Protocol
+      - What does the term "IP" stand for?
+      - Answer : Internet Protocol
 
-        - What is each section of an IP address called?
-        - Answer : Octet
+      - What is each section of an IP address called?
+      - Answer : Octet
 
-        - How many sections (in digits) does an IPv4 address have? 
-        - Answer : 4
+      - How many sections (in digits) does an IPv4 address have? 
+      - Answer : 4
 
-        - What does the term "MAC" stand for?
-        - Answer : Media Access Control
+      - What does the term "MAC" stand for?
+      - Answer : Media Access Control
      
   ##### Try Hack Me Labs - MAC Spoofing Simulation
 
@@ -68,5 +68,5 @@
 
   📸 Results are saved in the [Screenshots](./Screenshots) folder.
 
-      - Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
+     - Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
       - Answer: THM{YOU_GOT_ON_TRYHACKME}
