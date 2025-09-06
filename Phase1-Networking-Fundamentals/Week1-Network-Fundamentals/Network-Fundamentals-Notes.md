@@ -110,7 +110,7 @@
      
           <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7eba7dd6-d05d-4e0d-a28a-9fee561bd261" />
 
-##### Switches
+#### Switches
 
 - A switch is a device that helps connect many gadgets (like computers and printers) in a network using Ethernet cables. 
 
@@ -120,7 +120,7 @@
 
 - Switches and routers can connect to each other to create multiple paths for data, making the network more reliable. If one path fails, data can take another route, preventing downtime. This may slow the network slightly but keeps it running smoothly.
 
-##### Routers
+#### Routers
 
 - A router connects different networks and helps send data between them. Routing is the process of finding the best path for the data to travel so it reaches the right place.
 
