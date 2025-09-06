@@ -1,11 +1,11 @@
-# Week 1 – Network Fundamentals
+# Phase 1 - Network Fundamentals
 
 ## 📖 Topics Covered
-- What is Networking?
-- Intro to LAN
-- OSI Model
-- Packets & Frames
-- Extending Your Network
+- Week 1 : What is Networking?
+- Week 2: Intro to LAN
+- Week 3: OSI Model
+- Week 4: Packets & Frames
+- Week 5: Extending Your Network
 
 ---
 
